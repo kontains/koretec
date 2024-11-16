@@ -1,0 +1,2 @@
+# koretec
+Core repo
