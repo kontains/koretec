@@ -2,6 +2,8 @@
 
 Core design repo
 
+[![ui-dark](home/project/app/img/koretex-logo-small.jpg)](https://github.com/kontains/koretex)
+
 <hr>
 
 Setting up docs.
@@ -12,7 +14,7 @@ Setting up docs.
 
 -  [Koretex : ](https://github.com/kontains/koretex)  AI  (agents)
 
-[![ui-dark](home/project/app/demo/instruction-following.jpg)](https://github.com/kontains/koretex)
+[![ui-light](home/project/app/demo/instruction-following.jpg)](https://github.com/kontains/koretex)
 
 <hr>
 
