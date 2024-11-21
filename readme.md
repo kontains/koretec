@@ -12,6 +12,8 @@ Setting up docs.
 
 -  [Koretex : ](https://github.com/kontains/koretex)  AI  (agents)
 
+[![ui-dark](home/project/app/demo/instruction-following.jpg)](https://github.com/kontains/koretex)
+
 <hr>
 
 Discord :  [![Discord](https://img.shields.io/discord/416779691525931008?color=%237289da&label=Discord)](https://discord.gg/zGn7MS6)
