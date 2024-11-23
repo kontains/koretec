@@ -1,22 +1,23 @@
-# ---
+---
 
 ## koretec
 
+[![ui-dark](https://github.com/kontains/koretec/blob/main/home/project/app/demo/preview-koretec-ui-2.png)](https://github.com/kontains/koretec)
+
+<hr>
+
 ### new features
-
-[![ui-dark](https://github.com/kontains/koretec/blob/main/home/project/app/demo/koretec-ui-dark1.jpg)](https://github.com/kontains/koretec)
-
-
-### by [burgil](https://github.com/burgil)
-
-- Added a Clone button that works!
-- Fixed cloning not saving after reload!
-- New Backup/Restore Functions That Works! - Restore/Backup even when on the homepage
+ by [burgil](https://github.com/burgil)
+<br> ✔️ - Added a Clone button that works!
+<br> ✔️ - Fixed cloning not saving after reload!
+<br> ✔️ - Auto open code area on reload
+<br> ✔️ - Visual improvements
+<br>
+- New Backup/Restore Functions That Work!
+- Restore/Backup even when on the homepage
 - Auto save/fork new chats
 - Changed default model to Mistral Large and the default context size to 128000
-- Auto open code area on reload
-- Added create new project button
-- Visual improvements
+- Create new project button
 
 [![ui-dark](https://github.com/kontains/win-bolt/raw/main/preview1.png)](https://github.com/kontains/win-bolt#boltnew-fork-by-burgil)
 
