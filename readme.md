@@ -3,17 +3,40 @@
 
 ### new features
 
+
 [![ui-dark](https://github.com/kontains/koretec/blob/main/home/project/app/demo/koretec-ui-dark1.jpg)](https://github.com/kontains/koretec)
+
+
+[![ui-dark](https://github.com/kontains/koretec/blob/main/home/project/app/demo/koretec-ui-dark1.jpg)](https://github.com/kontains/koretec)
+
 
 <br>
 
+### Chat
+<br> ☑ - Fork Chat
+<br> ☑ - Rewind Chat
+
+<br> ☐ - { reformat msg }
+
+### File
 <br> ☑ - Add Files 
 <br> ☑ - Add Folders
+
+<br> ☐ - { delete files }
+<br> ☐ - { delete folders }
+
+### Git
 <br> ☑ - Git Push
 <br> ☑ - Git Pull
-<br> ☐ - 
-<br> ☐ - 
-<br> ☐ - 
+<br> ☑ - Git Clone
+
+### DB
+<br> ☑ - Restore DB
+<br> ☑ - Backup DB
+
+###
+<br> ☑ - 
+
 <br> ☐ - 
 
 <br><br><br>
